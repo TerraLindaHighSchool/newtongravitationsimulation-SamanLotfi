@@ -9,8 +9,8 @@ public class AsteroidController : MonoBehaviour
     private Vector3 initialForce;
     private const float MASS_OF_DUST = 1;
     private const float SCALE = 1;
-    private const float MIN_INITIAL_MASS = 9.9f;
-    private const float MAX_INITIAL_MASS = 10.1f;
+    private const float MIN_INITIAL_MASS = 19.8f;
+    private const float MAX_INITIAL_MASS = 20.2f;
     private const float MIN_INITIAL_FORCE = 1000.0f;
     private const float MAX_INITIAL_FORCE = 1500.0f;
 
